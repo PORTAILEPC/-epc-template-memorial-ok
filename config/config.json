@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "template": "epc-site-vie",
+    "created": "2026-09-15",
+    "lastUpdate": "2026-09-15",
+    "auteur": "Portail EPC",
+    "licence": "Libre pour usage paroissial"
+  },
+
+  "fidele": {
+    "id": "foh-juliette-1958",
+    "nom": "FOH",
+    "prenom": "Juliette",
+    "nomComplet": "Juliette FOH",
+    "sexe": "F",
+    "naissance": "1958-06-15",
+    "lieuNaissance": "Mbankomo, Cameroun",
+    "deces": null,
+    "lieuDeces": null,
+    "statut": "vivant",
+    "photo": "images/portrait.jpg",
+    "photoBanniere": "images/banniere-1.jpg",
+    "verset": "Psaume 23:1",
+    "profession": "Enseignante retraitée",
+    "paroisse": "Mbankomo",
+    "famille": "foh",
+    "biographieCourte": "Une vie dévouée à sa famille et à sa communauté."
+  },
+
+  "modules": {
+    "biographie": true,
+    "galerie": true,
+    "videos": true,
+    "audios": true,
+    "temoignages": true,
+    "activites": true,
+    "sacrements": true,
+    "publications": true,
+    "telechargements": true,
+    "arbre_genealogique": true,
+    "faq": true,
+    
+    "programme_obseques": false,
+    "condoleances": false,
+    "hommages": false,
+    
+    "multilingue": true,
+    "bannieres_rotatives": true,
+    "partage_social": true,
+    "analytics": false,
+    "notifications": false
+  },
+
+  "langues": {
+    "parDefaut": "fr",
+    "disponibles": ["fr", "en"]
+  },
+
+  "baseDeDonnees": {
+    "active": false,
+    "fournisseur": "supabase",
+    "url": "",
+    "clePublique": "",
+    "tables": {
+      "condoleances": "condoleances",
+      "temoignages": "temoignages",
+      "visites": "visites"
+    }
+  },
+
+  "medias": {
+    "youtubeGeneral": "",
+    "youtubeSpecifique": "",
+    "radioUrl": "",
+    "albumPhotos": ""
+  },
+
+  "partage": {
+    "titre": "Site-Vie EPC",
+    "description": "Découvrez la vie de notre chère fidèle",
+    "image": "images/partage.jpg"
+  },
+
+  "analytics": {
+    "umamiId": "",
+    "googleAnalyticsId": ""
+  },
+
+  "seo": {
+    "motsCles": ["EPC", "paroisse", "mémoire", "fidèle", "Cameroun"],
+    "auteur": "Portail EPC"
+  }
+}
