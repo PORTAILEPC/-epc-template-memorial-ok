@@ -1,11 +1,11 @@
 {
-  "titre": "Une vie au service de Dieu et des autres",
+  "titre": "[TITRE DE LA BIOGRAPHIE]",
   "paragraphes": [
-    "MAMA EYENGA SYLVIE est née le 12 mars 1935 à Mbankomo, dans la région du Centre au Cameroun. Fille d'une famille profondément chrétienne, elle a grandi dans la foi et l'amour du prochain.",
-    "Très tôt, elle a rejoint la chorale de la paroisse presbytérienne de Mbankomo, où sa voix remarquable a touché des générations de fidèles. Elle a consacré sa vie à l'éducation de ses enfants et au service de sa communauté.",
-    "Femme de foi inébranlable, elle a traversé les épreuves de la vie avec une sérénité et une sagesse qui inspiraient tous ceux qui la côtoyaient. Son sourire lumineux et sa générosité resteront gravés dans nos mémoires.",
-    "Elle s'est éteinte paisiblement le 8 novembre 2023 à Yaoundé, entourée de sa famille. Elle laisse derrière elle un héritage spirituel précieux et une famille unie qui continue de porter ses valeurs."
+    "[PARAGRAPHE 1] Présentez ici les origines du fidèle : date et lieu de naissance, famille, enfance, études.",
+    "[PARAGRAPHE 2] Décrivez son parcours professionnel, son engagement dans la paroisse, ses responsabilités.",
+    "[PARAGRAPHE 3] Évoquez ses valeurs, sa foi, son témoignage au sein de la communauté.",
+    "[PARAGRAPHE 4] Parlez de sa famille, ses enfants, ses petits-enfants, son héritage spirituel."
   ],
-  "citation": "« Tout ce que vous faites, faites-le de bon cœur, comme pour le Seigneur. » — Colossiens 3:23",
+  "citation": "[CITATION BIBLIQUE PRÉFÉRÉE] — [RÉFÉRENCE]",
   "photo": "images/portrait.jpg"
 }
